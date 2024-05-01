@@ -1,0 +1,2 @@
+this is myfirst line in file2
+this is my second line
